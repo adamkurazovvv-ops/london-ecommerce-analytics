@@ -37,6 +37,19 @@ The SQL analysis explores:
 * Revenue per customer by borough
 * Repeat customer behaviour
 
+## Key Findings
+
+The analysis of the synthetic dataset produced the following results:
+
+* **Total revenue:** £1,363,145.14
+* **Total orders:** 5,000
+* **Average order value (AOV):** £272.63
+* **Top revenue category:** Electronics
+* **Highest-revenue product:** Smart Watch
+
+All figures are based on synthetic data generated for this portfolio project and do not represent actual London retail performance.
+
+
 ## Project Status
 
 The data generation, data quality checks, PostgreSQL setup, and initial SQL analysis are complete.
