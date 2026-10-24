@@ -55,3 +55,7 @@ All figures are based on synthetic data generated for this portfolio project and
 The data generation, data quality checks, PostgreSQL setup, and initial SQL analysis are complete.
 
 Further work will include improving the documentation, presenting key findings, and building a dashboard.
+
+## Revenue by Product Category
+
+![Revenue by Product Category](reports/revenue_by_category.png)
