@@ -59,3 +59,7 @@ Further work will include improving the documentation, presenting key findings, 
 ## Revenue by Product Category
 
 ![Revenue by Product Category](reports/revenue_by_category.png)
+
+## Monthly Revenue
+
+![Monthly Revenue](reports/monthly_revenue.png)
