@@ -63,3 +63,10 @@ Further work will include improving the documentation, presenting key findings, 
 ## Monthly Revenue
 
 ![Monthly Revenue](reports/monthly_revenue.png)
+
+
+## Revenue by London Borough
+
+*Note: This chart uses synthetic data and does not represent actual London retail revenue.*
+
+![Revenue by London Borough](reports/revenue_by_borough.png)
