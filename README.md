@@ -70,3 +70,10 @@ Further work will include improving the documentation, presenting key findings, 
 *Note: This chart uses synthetic data and does not represent actual London retail revenue.*
 
 ![Revenue by London Borough](reports/revenue_by_borough.png)
+
+
+## Top 10 Customers by Spending
+
+*Note: This chart uses synthetic data and does not represent actual customer spending.*
+
+![Top 10 Customers by Spending](reports/top_customers.png)
