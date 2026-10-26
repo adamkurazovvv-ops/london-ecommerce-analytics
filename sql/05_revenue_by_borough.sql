@@ -7,3 +7,4 @@ JOIN orders AS o
     ON c.customer_id = o.customer_id
 GROUP BY c.borough
 ORDER BY revenue DESC;
+
