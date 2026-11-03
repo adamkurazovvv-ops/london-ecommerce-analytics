@@ -96,4 +96,3 @@ These figures illustrate how SQL can be used to monitor delivery performance and
 This chart compares the percentage of late deliveries across seven boroughs using synthetic data.
 
 ![Delivery SLA by Borough](reports/delivery_sla_by_borough.png)
-![Delivery SLA by Borough](reports/delivery_sla_by_borough.png)
