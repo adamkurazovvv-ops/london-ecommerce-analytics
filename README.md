@@ -96,3 +96,49 @@ These figures illustrate how SQL can be used to monitor delivery performance and
 This chart compares the percentage of late deliveries across seven boroughs using synthetic data.
 
 ![Delivery SLA by Borough](reports/delivery_sla_by_borough.png)
+
+## Project Structure
+
+```text
+london-ecommerce-analytics/
+├── data/
+│   ├── customers.csv
+│   ├── products.csv
+│   ├── orders.csv
+│   └── order_items.csv
+├── reports/
+│   ├── revenue_by_category.png
+│   ├── monthly_revenue.png
+│   ├── revenue_by_borough.png
+│   ├── top_customers.png
+│   └── delivery_sla_by_borough.png
+├── sql/
+│   ├── 01_revenue_analysis.sql
+│   ├── 02_business_metrics.sql
+│   ├── 03_monthly_revenue.sql
+│   ├── 04_top_products.sql
+│   ├── 05_revenue_by_borough.sql
+│   ├── 06_revenue_per_customer.sql
+│   ├── 07_repeat_customers.sql
+│   ├── 08_customer_retention.sql
+│   ├── 09_all_customer_activity.sql
+│   ├── 10_top_customers.sql
+│   └── 11_delivery_sla_by_borough.sql
+├── src/
+├── requirements.txt
+└── README.md
+```
+## Limitations
+
+* The dataset is synthetic and does not represent real business transactions.
+* Geographic mappings are approximate.
+* The analysis describes patterns in generated data and cannot establish real-world business or delivery trends.
+* The project is intended for educational and portfolio purposes.
+
+## Project Status
+
+**Status: Core analysis completed.**
+
+The project includes synthetic data generation, data quality checks, SQL-based business analysis, and five visualisations.
+
+Future improvements could include an interactive dashboard and automated data processing.
